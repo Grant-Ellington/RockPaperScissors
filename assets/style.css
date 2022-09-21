@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div {
+
+}
+button {
+    justify-content: center;
+    background-color: green;
+    color: aliceblue;
+    font-size: large;
+}
